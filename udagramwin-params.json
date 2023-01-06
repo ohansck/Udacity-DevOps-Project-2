@@ -1,0 +1,14 @@
+[
+	{
+		"ParameterKey": "EnvironmentName",
+		"ParameterValue": "DevOpsUdagramProject"
+	},
+	{
+		"ParameterKey": "WinEC2InstanceType",
+		"ParameterValue": "t2.micro"
+	},
+	{
+		"ParameterKey": "MachineID",
+		"ParameterValue": "win-machine-ami"
+	}
+]

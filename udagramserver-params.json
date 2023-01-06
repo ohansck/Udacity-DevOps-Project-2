@@ -1,0 +1,14 @@
+[
+	{
+		"ParameterKey": "EnvironmentName",
+		"ParameterValue": "DevOpsUdagramProject"
+	},
+	{
+		"ParameterKey": "EC2InstanceType",
+		"ParameterValue": "t3.medium"
+	},
+	{
+		"ParameterKey": "MachineID",
+		"ParameterValue": "machineAMI"
+	}
+]
