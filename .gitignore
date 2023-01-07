@@ -1,2 +1,4 @@
 test.sh
 test.yml
+*.sh
+*.json
