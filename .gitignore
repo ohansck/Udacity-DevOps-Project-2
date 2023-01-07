@@ -1,4 +1,8 @@
 test.sh
 test.yml
-.sh
-.json
+create.sh
+update.sh
+delete.sh
+udagramnetwork-params.json
+udagramwin-params.json
+udagramserver-params.json
